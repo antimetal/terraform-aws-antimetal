@@ -1,5 +1,9 @@
 # Antimetal Terraform Connect
 
+> [!WARNING]
+> This repository is archived and is no longer maintained.
+> The code and documentation are retained for historical reference.
+
 Antimetal provides a custom [Terraform module](https://registry.terraform.io/modules/antimetal/antimetal/aws/latest) that allows you to create your Antimetal Cross-Account IAM Role directly within your infrastructure management workflow.
 
 TL;DR: copy the `role_arn` from the output and paste into [Connect Account using Terraform](https://app.antimetal.com/admin).
